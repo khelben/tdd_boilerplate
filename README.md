@@ -7,5 +7,7 @@ Supported languages are:
 * [.NET Core](./dotnet)
 * [elixir](./elixir)
 * [golang](./golang)
+* [java](./java)
 * [javascript](./javascript)
+* [kotlin](./kotlin)
 * [ruby](./ruby)
