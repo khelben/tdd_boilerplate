@@ -7,3 +7,4 @@ Supported languages are:
 * [elixir](./elixir)
 * [golang](./golang)
 * [javascript](./javascript)
+* [ruby](./ruby)
